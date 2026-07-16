@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Flutter+Developer;Biomedical+Computation;Building+AI+Applications+for+Healthcare;Machine+Learning+and+Deep+Learning" />
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed-abd52&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
