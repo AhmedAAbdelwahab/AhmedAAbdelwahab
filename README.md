@@ -2,9 +2,9 @@
 
 # Ahmed Abdelwahab
 
-### AI Engineering Student | Flutter Developer | Biomedical Computation
+### AI Engineering | Flutter Developer | Intelligent Biomedical Computation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Flutter+Developer;Biomedical+Computation;Building+AI+Applications+for+Healthcare;Machine+Learning+and+Deep+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineering;Flutter+Developer;Intelligent+Biomedical+Computation;Building+AI+Applications;Machine+Learning+and+Deep+Learning" />
 
 </div>
 
