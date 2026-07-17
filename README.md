@@ -76,7 +76,7 @@ AI application for estimating KMnO4 solution concentrations from laboratory tube
 
 ## Achievements
 
-🥉 Third Place Winner in FinYology Competition among teams from 48 Egyptian universities under the Central Bank of Egypt and the Ministry of Higher Education.
+Fourth Place Winner in FinYology Competition among teams from 48 Egyptian universities under the Central Bank of Egypt and the Ministry of Higher Education.
 
 ---
 
