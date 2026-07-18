@@ -42,15 +42,18 @@
 
 ### Backend
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://cdn.simpleicons.org/ngrok"  height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
+</p>
 
 ### Tools
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio">
-
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45"/>
+</p>
 
 ---
 
