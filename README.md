@@ -43,8 +43,8 @@
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=flask"/>
-
-REST APIs • ngrok • pyngrok
+<img src="https://cdn.simpleicons.org/ngrok"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
 
 ### Tools
 
