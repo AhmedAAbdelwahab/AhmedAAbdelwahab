@@ -26,23 +26,12 @@
 <img src="https://skillicons.dev/icons?i=python,dart,cpp,java"/>
 
 
-### AI and Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
-
 ### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,cloud-firestore,java"/>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
 
 ### Backend and APIs
-
+<img src="https://skillicons.dev/icons?i=restapi,ngrok"/>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
