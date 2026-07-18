@@ -38,7 +38,10 @@
 
 ### Mobile
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,firebase"/>
+<img src="https://img.icons8.com/color/96/api-settings.png" height="48"/>
+</p>
 
 ### Backend
 
